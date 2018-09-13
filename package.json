@@ -1,0 +1,26 @@
+{
+  "name": "appsqlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "javascript",
+    "sqlite",
+    "node",
+    "electron"
+  ],
+  "author": "TecladistaProd",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.9",
+    "mysql": "^2.16.0"
+  }
+}
